@@ -315,7 +315,7 @@ body.light hr.separator {
 	line-height: 46px;
 	font-size: 15px;
 	text-transform: uppercase;
-	color: rgb(200, 200, 200);
+	color: rgb(255, 255, 255);
 	padding: 0 40px;
 	outline: none !important;
 	overflow: hidden;
@@ -329,7 +329,7 @@ body.light hr.separator {
 .btn,
 .btn:hover,
 .btn:focus {
-	color: #fff;
+	color: rgb(200, 200, 200);
 	text-decoration: none;
 }
 
