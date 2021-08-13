@@ -94,7 +94,7 @@ body {
 .btn,
 .btn:hover,
 .btn:focus {
-	color: rgb(200, 200, 200);
+	color: #3d3d3d;
 	text-decoration: none;
 }
 
