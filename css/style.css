@@ -329,7 +329,7 @@ body.light hr.separator {
 .btn,
 .btn:hover,
 .btn:focus {
-	color: rgb(0, 0, 0);
+	color: rgb(0, 0, 0) !important;
 	text-decoration: none;
 }
 
