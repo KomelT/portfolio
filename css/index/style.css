@@ -343,7 +343,7 @@ body {
 
 	.btn:before {
 		font: 15px/1.2em FontAwesome;
-		color: #fff;
+		/*color: #fff;*/
 		position: absolute;
 		height: 100%;
 		right: 25px;
